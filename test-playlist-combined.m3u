@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="[DIR] Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="TEST DIRECT",[DIR] Globo SP HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1948
+
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="[PRX] Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="TEST PROXY",[PRX] Globo SP HD
+http://192.168.1.184:4173/cors?tslive=1&url=http%3A%2F%2Fsite.poupadefrutas.shop%3A80%2Fq2Y7tqVAUv%2FdnuavyuZV5%2F1948
+
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="[DIR] Globo RJ HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="TEST DIRECT",[DIR] Globo RJ HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1942
+
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="[PRX] Globo RJ HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Rio.png" group-title="TEST PROXY",[PRX] Globo RJ HD
+http://192.168.1.184:4173/cors?tslive=1&url=http%3A%2F%2Fsite.poupadefrutas.shop%3A80%2Fq2Y7tqVAUv%2FdnuavyuZV5%2F1942
+
+#EXTINF:-1 tvg-id="br#globo-belo-horizonte" tvg-name="[DIR] Globo MG HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Minas.png" group-title="TEST DIRECT",[DIR] Globo MG HD
+http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1933
+
+#EXTINF:-1 tvg-id="br#globo-belo-horizonte" tvg-name="[PRX] Globo MG HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Minas.png" group-title="TEST PROXY",[PRX] Globo MG HD
+http://192.168.1.184:4173/cors?tslive=1&url=http%3A%2F%2Fsite.poupadefrutas.shop%3A80%2Fq2Y7tqVAUv%2FdnuavyuZV5%2F1933
